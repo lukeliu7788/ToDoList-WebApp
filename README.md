@@ -1,6 +1,7 @@
 # Todolist
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7. User can add, delete, marked tasks.
+The app use Firebase to store data.
 
 ## Development server
 
