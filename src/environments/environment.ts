@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase:{
+    apiKey: "AIzaSyDz6dS8EYqT5g1jcIBJXoIM-Svwxiku3SQ",
+    authDomain: "todolistapp-20b22.firebaseapp.com",
+    databaseURL: "https://todolistapp-20b22.firebaseio.com",
+    projectId: "todolistapp-20b22",
+    storageBucket: "todolistapp-20b22.appspot.com",
+    messagingSenderId: "796117350239"
+  }
 };
 
 /*
